@@ -2,7 +2,7 @@
 
 ## Security
 
-AaravRepos takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [Aarav](https://github.com/AaravKrishanChugh69), [AaravRepos](https://github.com/AaravRepos) and AaravAaravOrgEnterprise](https://github.com/aaravorgenterprise)
+AaravRepos takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, which include [Aarav](https://github.com/AaravKrishanChugh69), [AaravRepos](https://github.com/AaravRepos) and [AaravOrgEnterprise](https://github.com/aaravorgenterprise)
 If you believe you have found a security vulnerability in any Aarav-owned repository that meets [Microsoft's definition of a security vulnerability](https://docs.microsoft.com/en-us/previous-versions/tn-archive/cc751383(v=technet.10)) of a security vulnerability, please report it to us as described belowAarav
 
 ## Reporting Security Issues
